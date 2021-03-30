@@ -1,0 +1,21 @@
+.search-box {
+display: flex;
+flex-direction: column;
+width: 100%;
+align-items: center;
+}
+
+.search-box-card {
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.search-box-card-movie {
+    display: flex;
+    flex-direction: column;
+    border: gray solid;
+    margin: 10px;
+    width: 20%;
+}
